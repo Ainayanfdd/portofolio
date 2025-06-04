@@ -13,7 +13,7 @@ export default function EducationSection() {
   const theme = useMantineTheme();
 
   return (
-    <Box px="" py="" sx={{ width: "90%" }}>
+    <Box px="" py="" sx={{ width: "77%" }}>
       <BoxWrapper withBackground={false}>
         <Title
           order={1}
@@ -73,7 +73,7 @@ export default function EducationSection() {
                 </Text>
                 <Text>Senior High School | Science Major</Text>
                 <Text size="sm" color="dimmed">
-                  2020 - 2023
+                  2020 - 2023 | Final Grade: 83.81
                 </Text>
               </Box>
             </Box>
