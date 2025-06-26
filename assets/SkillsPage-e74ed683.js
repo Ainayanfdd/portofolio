@@ -1,0 +1,1 @@
+import{j as r}from"./index-a6645a6a.js";import{P as t}from"./Page-122e6a6d.js";import{S as i}from"./Skills-2e8f6fcb.js";import"./CustomHelmet-672b2a52.js";import"./BoxWrapper-7d6fdcb8.js";import"./Title-b58ac39a.js";import"./SimpleGrid-16bf2801.js";function f(){return r.jsx(t,{title:"Skills",isFirst:!0,withBackground:!1,children:r.jsx(i,{})})}export{f as default};
